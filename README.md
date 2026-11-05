@@ -419,7 +419,7 @@ code evolved:
 | `SPECIAL_ERROR_RISE` | Hand | ✅ |
 | Field validators | Hand | ✅ |
 | Simulation loop | Hand | ✅ |
-| `globalvar.py` UI helpers | LLM | ✅ |
+| `globalvar_llm.py` UI helpers | LLM | ✅ |
 | `LLM-Badassified/` variant | LLM | ✅ |
 | This README | Hand + LLM | ✅ |
 
